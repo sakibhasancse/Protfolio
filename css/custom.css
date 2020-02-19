@@ -1,0 +1,154 @@
+.do-section {
+    padding-left: 34px;
+}
+
+@media screen and (max-width:443px) {
+    .do-section {
+        padding-left: 15px;
+    }
+}
+
+.service-desktop {
+    padding-left: 34px;
+}
+
+@media only screen and (min-width:1220px) {
+    .service-padd {
+        padding-left: 18px;
+    }
+}
+
+@media only screen and (min-width:1220px) {
+    .meet-padd {
+        padding-top: 15px;
+        padding-left: 43px;
+    }
+}
+
+@media only screen and (min-width:1220px) {
+    .footer-padd {
+        padding-left: 50px;
+    }
+}
+
+@media only screen and (min-width:1220px) {
+    .hp2 {
+        padding-left: 16px;
+        font-size: 34px;
+    }
+}
+
+@media only screen and (min-width:1220px) {
+    .hp2 {
+        padding-left: 16px;
+        font-size: 34px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .h2,
+    h2 {
+        font-size: 15px;
+    }
+    .nav-title {
+        font-size: 7.1875rem;
+        font-weight: 500;
+        line-height: 5.375rem;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .nav-title {
+        font-size: 5.1875rem;
+        line-height: 5.375rem;
+    }
+}
+
+@media only screen and (min-width:1024px) {
+    .nav-title {
+        font-size: 7.1875rem;
+        font-weight: 500;
+        line-height: 8.375rem;
+    }
+}
+
+@media only screen and (min-width:1220px) {
+    .nav-title {
+        font-size: 7.1875rem;
+        font-weight: 500;
+        line-height: 8.375rem;
+    }
+}
+
+@media screen and (max-width:443px) {
+    .des {
+        display: none;
+    }
+    .do-section {
+        margin-top: -56px;
+    }
+    .btn--primary {
+        height: 38px;
+    }
+    .mobiledesktop {
+        padding-right: 36px;
+        color: #20ac97;
+        font-size: 24px;
+    }
+    .card-text p {
+        font-size: 19px;
+    }
+    .mo {
+        font-size: 17px;
+    }
+    .mc {
+        display: none;
+    }
+    .mobilecus {
+        display: flex;
+    }
+    .mcd {
+        font-size: 29px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .des {
+        display: none;
+    }
+    .btn--primary {
+        height: 38px;
+    }
+    .mobiledesktop {
+        padding-right: 36px;
+        color: #20ac97;
+        font-size: 24px;
+    }
+    .card-text p {
+        font-size: 19px;
+    }
+    .mo {
+        font-size: 17px;
+    }
+    .mc {
+        display: none;
+    }
+    .mobilecus {
+        display: flex;
+    }
+    .mcd {
+        font-size: 29px;
+    }
+}
+
+@media only screen and (min-width:769px) {
+    .m {
+        margin: 0px 78px 40px 0px;
+    }
+    .mobiledesktop {
+        display: none;
+    }
+    .mcd {
+        display: none;
+    }
+}

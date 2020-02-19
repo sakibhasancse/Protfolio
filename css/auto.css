@@ -1,0 +1,1648 @@
+                                                                            h .get-started {
+                                                                            padding: 50px 0 50px
+                                                                        }
+                                                                        
+                                                                        .get-started .info2-out {
+                                                                            padding-right: 0
+                                                                        }
+                                                                        
+                                                                        .get-started .get-content {
+                                                                            padding-left: 35px
+                                                                        }
+                                                                        
+                                                                        .from-the-wrap {
+                                                                            padding-bottom: 100px
+                                                                        }
+                                                                        
+                                                                        .get-content h2 {
+                                                                            font-size: 36px;
+                                                                            font-weight: 800;
+                                                                            color: #fff;
+                                                                            line-height: 48px
+                                                                        }
+                                                                        
+                                                                        .get-started.blue-bg .row {
+                                                                            display: flex;
+                                                                            align-items: center
+                                                                        }
+                                                                        
+                                                                        .get-started .get-content a {
+                                                                            padding: 19px 30px;
+                                                                            line-height: 20px;
+                                                                            font-size: 18px;
+                                                                            color: #fff;
+                                                                            font-weight: 800;
+                                                                            background-position: right bottom;
+                                                                            transition: all .5s ease-out;
+                                                                            display: block;
+                                                                            width: 250px;
+                                                                            float: right;
+                                                                            border: 2px solid #ec6779;
+                                                                            background: linear-gradient(to left, transparent 50%, #ec6779 50%);
+                                                                            background-size: 200% 100%
+                                                                        }
+                                                                        
+                                                                        .get-started .get-content a:before {
+                                                                            background-image: url(//www.boston-technology.com/wp-content/themes/btc/images/email-white-01.svg);
+                                                                            background-size: 42px 33px;
+                                                                            height: 33px;
+                                                                            width: 42px;
+                                                                            margin-top: -5px;
+                                                                            margin-right: 5px;
+                                                                            content: "";
+                                                                            float: left
+                                                                        }
+                                                                        
+                                                                        img.formobile {
+                                                                            display: none
+                                                                        }
+                                                                        
+                                                                        .from-in>div.bulblnk>img {
+                                                                            width: 24px;
+                                                                            height: 31px;
+                                                                            object-fit: contain;
+                                                                            object-position: center
+                                                                        }
+                                                                        
+                                                                        .bulblnk {
+                                                                            display: flex;
+                                                                            height: 64px;
+                                                                            width: 64px;
+                                                                            justify-content: center;
+                                                                            padding: 10px;
+                                                                            background-image: url(//www.boston-technology.com/wp-content/themes/btc/images/btc_thoughtwhite-01.svg);
+                                                                            background-position: center;
+                                                                            background-size: contain;
+                                                                            background-repeat: no-repeat;
+                                                                            min-height: auto !Important;
+                                                                            position: absolute;
+                                                                            bottom: 40px;
+                                                                            z-index: 9
+                                                                        }
+                                                                        
+                                                                        .blog-out .bulblnk {
+                                                                            background-image: url(//www.boston-technology.com/wp-content/themes/btc/images/btc_thought-01-01.svg)
+                                                                        }
+                                                                        
+                                                                        .burger-overlay {
+                                                                            display: none
+                                                                        }
+                                                                        
+                                                                        .burger-overlay {
+                                                                            position: fixed;
+                                                                            width: 100%;
+                                                                            height: 100vh;
+                                                                            top: 0;
+                                                                            left: 0;
+                                                                            z-index: 99;
+                                                                            padding: 70px 85px;
+                                                                            overflow: auto
+                                                                        }
+                                                                        
+                                                                        .burger-close {
+                                                                            cursor: pointer;
+                                                                            position: absolute;
+                                                                            right: 110px;
+                                                                            top: 75px
+                                                                        }
+                                                                        
+                                                                        .burger-close img {
+                                                                            width: 35px
+                                                                        }
+                                                                        
+                                                                        .burger-menu {
+                                                                            transition: .5s all ease;
+                                                                            min-height: 52px;
+                                                                            display: flex;
+                                                                            flex-direction: column;
+                                                                            justify-content: center;
+                                                                            display: none
+                                                                        }
+                                                                        
+                                                                        .burger-menu:hover {
+                                                                            opacity: .5
+                                                                        }
+                                                                        
+                                                                        .resp-menu li {
+                                                                            list-style: none
+                                                                        }
+                                                                        
+                                                                        .resp-menu li a,
+                                                                        .resp-menu li.menu-item-has-children li a {
+                                                                            color: #fff
+                                                                        }
+                                                                        
+                                                                        .resp-menu li li {
+                                                                            float: none;
+                                                                            width: 100%
+                                                                        }
+                                                                        
+                                                                        .resp-menu li a {
+                                                                            font-size: 40px;
+                                                                            font-weight: 900;
+                                                                            display: block;
+                                                                            padding-bottom: 20px;
+                                                                            margin-top: 23px
+                                                                        }
+                                                                        
+                                                                        .resp-menu li li a {
+                                                                            margin-top: 0;
+                                                                            font-size: 20px;
+                                                                            display: inline-block;
+                                                                            padding-bottom: 0;
+                                                                            font-weight: 600;
+                                                                            margin-left: 3px;
+                                                                            line-height: 30px;
+                                                                            border-bottom: 1px solid transparent;
+                                                                            margin-bottom: 7px
+                                                                        }
+                                                                        
+                                                                        .resp-menu li li a:hover {
+                                                                            border-bottom: 1px solid #fff
+                                                                        }
+                                                                        
+                                                                        .resp-menu {
+                                                                            overflow: hidden
+                                                                        }
+                                                                        
+                                                                        .soc {
+                                                                            margin-top: 80px;
+                                                                            margin-bottom: 40px
+                                                                        }
+                                                                        
+                                                                        .soc ul#menu-social-links li a {
+                                                                            color: #fff
+                                                                        }
+                                                                        
+                                                                        .cat-description ul {
+                                                                            display: flex
+                                                                        }
+                                                                        
+                                                                        li.contact-menu {
+                                                                            margin-right: -28px
+                                                                        }
+                                                                        
+                                                                        .cat-up .entry p:last-child {
+                                                                            margin-bottom: 0
+                                                                        }
+                                                                        
+                                                                        .container-fluid.bottom-ftr .row {
+                                                                            margin-left: -30px
+                                                                        }
+                                                                        
+                                                                        .cat-description .cat-ico img {
+                                                                            width: 43px;
+                                                                            height: 43px;
+                                                                            margin: 0 auto
+                                                                        }
+                                                                        
+                                                                        .owl-nav {
+                                                                            display: none
+                                                                        }
+                                                                        
+                                                                        .sticky#header {
+                                                                            background: #fff;
+                                                                            box-shadow: 0 -1px 5px #979696
+                                                                        }
+                                                                        
+                                                                        .light#header {
+                                                                            background: #fff
+                                                                        }
+                                                                        
+                                                                        .light#header .access li a {
+                                                                            color: #6e757c
+                                                                        }
+                                                                        
+                                                                        img.sticky-ico,
+                                                                        .sticky#header img.no-sticky-ico,
+                                                                        .sticky#header img.fordesk {
+                                                                            display: none
+                                                                        }
+                                                                        
+                                                                        img.sticky-ico,
+                                                                        .light#header img.no-sticky-ico,
+                                                                        .light#header img.fordesk {
+                                                                            display: none
+                                                                        }
+                                                                        
+                                                                        .sticky#header img.sticky-ico,
+                                                                        .sticky#header img.formobile {
+                                                                            display: block
+                                                                        }
+                                                                        
+                                                                        .light#header img.sticky-ico,
+                                                                        .light#header img.formobile {
+                                                                            display: block
+                                                                        }
+                                                                        
+                                                                        .col-md-4.col-sm-5.get-content.buttn-red {
+                                                                            min-height: 285px;
+                                                                            display: flex;
+                                                                            flex-direction: column;
+                                                                            justify-content: center;
+                                                                            width: 265px;
+                                                                            float: right;
+                                                                            padding-left: 0;
+                                                                            padding-top: 10px
+                                                                        }
+                                                                        
+                                                                        .fix-top-padding {
+                                                                            padding-top: 175px;
+                                                                            padding-bottom: 100px
+                                                                        }
+                                                                        
+                                                                        .xtrabold {
+                                                                            font-weight: 600
+                                                                        }
+                                                                        
+                                                                        .overview-casestudy {
+                                                                            margin-top: 45px;
+                                                                            display: flex
+                                                                        }
+                                                                        
+                                                                        .case-meta h4 {
+                                                                            font-size: 24px;
+                                                                            color: #525456;
+                                                                            font-weight: 600;
+                                                                            line-height: 28px;
+                                                                            margin-top: 10px
+                                                                        }
+                                                                        
+                                                                        .case-meta p {
+                                                                            font-size: 14px;
+                                                                            font-weight: 700;
+                                                                            color: #989b9c;
+                                                                            line-height: 18px
+                                                                        }
+                                                                        
+                                                                        .case-study-banner {
+                                                                            max-height: 620px;
+                                                                            background-repeat: no-repeat !Important;
+                                                                            max-width: 1903px;
+                                                                            background-size: cover;
+                                                                            background-position: center !important
+                                                                        }
+                                                                        
+                                                                        .content-case {
+                                                                            background: #fff;
+                                                                            padding: 50px 60px;
+                                                                            box-shadow: 0 7px 36px 2px rgba(0, 0, 0, .1);
+                                                                            margin-top: 150px;
+                                                                            margin-right: 21.5px;
+                                                                            min-height: 535px;
+                                                                            width: 630px;
+                                                                            margin-bottom: 90px
+                                                                        }
+                                                                        
+                                                                        .content-case,
+                                                                        .content-case p,
+                                                                        .how-come-content,
+                                                                        .how-come-content p {
+                                                                            font-size: 20px;
+                                                                            line-height: 34px
+                                                                        }
+                                                                        
+                                                                        .wrap-come.section-padding h2 {
+                                                                            font-size: 70px;
+                                                                            color: #20ac97
+                                                                        }
+                                                                        
+                                                                        .popup {
+                                                                            display: none
+                                                                        }
+                                                                        
+                                                                        .case-meta li {
+                                                                            list-style: none;
+                                                                            border-radius: 35px;
+                                                                            border: 1px solid #20ac97;
+                                                                            color: #72797b;
+                                                                            text-align: center;
+                                                                            margin: 5px 0;
+                                                                            background: #f0f4f5;
+                                                                            width: auto;
+                                                                            padding: 0 12.5px;
+                                                                            font-size: 12px;
+                                                                            line-height: 22px;
+                                                                            cursor: default
+                                                                        }
+                                                                        
+                                                                        .how-come {
+                                                                            padding: 50px 0
+                                                                        }
+                                                                        
+                                                                        ul.meta-tags {
+                                                                            display: flex;
+                                                                            flex-direction: column;
+                                                                            align-items: flex-end;
+                                                                            margin-top: 25px
+                                                                        }
+                                                                        
+                                                                        .how-come img {
+                                                                            width: 100%;
+                                                                            height: auto;
+                                                                            object-fit: cover
+                                                                        }
+                                                                        
+                                                                        .testimonials {
+                                                                            background: #f0f4f5
+                                                                        }
+                                                                        
+                                                                        .testimonials h4 {
+                                                                            font-size: 24px;
+                                                                            color: #20ac97
+                                                                        }
+                                                                        
+                                                                        .testimonial-content {
+                                                                            padding-bottom: 25px;
+                                                                            position: relative
+                                                                        }
+                                                                        
+                                                                        .testimonial-content p {
+                                                                            width: 72%;
+                                                                            margin: 0 auto;
+                                                                            padding-top: 45px;
+                                                                            font-size: 26px;
+                                                                            line-height: 40px
+                                                                        }
+                                                                        
+                                                                        .testimonial-content p:before {
+                                                                            content: url(//www.boston-technology.com/wp-content/themes/btc/images/before-testi.png);
+                                                                            position: absolute;
+                                                                            top: 0;
+                                                                            left: 60px
+                                                                        }
+                                                                        
+                                                                        .testimonial-content p:after {
+                                                                            content: url(//www.boston-technology.com/wp-content/themes/btc/images/after-testi.png);
+                                                                            position: absolute;
+                                                                            bottom: 40px;
+                                                                            right: 60px
+                                                                        }
+                                                                        
+                                                                        .item.testi-item h5 {
+                                                                            color: #11519a;
+                                                                            font-size: 18px;
+                                                                            font-weight: 700;
+                                                                            margin: 13px 0 10px
+                                                                        }
+                                                                        
+                                                                        .item.testi-item h6 {
+                                                                            color: #525456;
+                                                                            font-size: 14px;
+                                                                            font-weight: 600
+                                                                        }
+                                                                        
+                                                                        .how-come:first-child {
+                                                                            margin-top: 10px
+                                                                        }
+                                                                        
+                                                                        .how-come:last-child {
+                                                                            padding-bottom: 0
+                                                                        }
+                                                                        
+                                                                        .wrap-come.section-padding {
+                                                                            padding-top: 90px
+                                                                        }
+                                                                        
+                                                                        .how-come-content {
+                                                                            padding-left: 25px
+                                                                        }
+                                                                        
+                                                                        .banner-contents h3 {
+                                                                            font-size: 36px;
+                                                                            line-height: 52px;
+                                                                            font-weight: 600;
+                                                                            color: #fff;
+                                                                            margin: 30px 0 60px
+                                                                        }
+                                                                        
+                                                                        .banner-contents {
+                                                                            margin-top: 90px
+                                                                        }
+                                                                        
+                                                                        .animatebutton.white {
+                                                                            background: linear-gradient(to right, #fff 50%, transparent 50%);
+                                                                            background-size: 201% 100%;
+                                                                            background-position: right bottom;
+                                                                            transition: all .5s ease-out;
+                                                                            padding: 17px 40px;
+                                                                            display: inline-block
+                                                                        }
+                                                                        
+                                                                        .animatebutton.green {
+                                                                            background: linear-gradient(to right, #20ac97 50%, transparent 50%);
+                                                                            background-size: 201% 100%;
+                                                                            background-position: right bottom;
+                                                                            transition: all .5s ease-out;
+                                                                            padding: 14px 32.5px;
+                                                                            display: inline-block;
+                                                                            border: 1px solid #20ac97;
+                                                                            color: #fff;
+                                                                            text-transform: uppercase;
+                                                                            font-weight: 700;
+                                                                            margin-right: 19px
+                                                                        }
+                                                                        
+                                                                        .animatebutton:hover {
+                                                                            background-position: left bottom
+                                                                        }
+                                                                        
+                                                                        .watch-video {
+                                                                            padding: 15px 38px;
+                                                                            color: #20ac97;
+                                                                            text-transform: uppercase;
+                                                                            font-weight: 700;
+                                                                            display: inline-block;
+                                                                            cursor: pointer;
+                                                                            margin-top: 35px;
+                                                                            background: linear-gradient(to left, transparent 50%, #000 50%);
+                                                                            background-size: 201% 100%;
+                                                                            border: 1px solid #000
+                                                                        }
+                                                                        
+                                                                        input.wpcf7-form-control.wpcf7-submit {
+                                                                            background: linear-gradient(to left, transparent 50%, #20ac97 50%);
+                                                                            background-size: 200% 100%
+                                                                        }
+                                                                        
+                                                                        input.wpcf7-form-control.wpcf7-submit:hover {
+                                                                            background-position: right bottom;
+                                                                            color: #20ac97
+                                                                        }
+                                                                        
+                                                                        .watch-video:hover {
+                                                                            background-position: right bottom;
+                                                                            border: 1px solid #000
+                                                                        }
+                                                                        
+                                                                        .watch-video:hover i {
+                                                                            color: #20ac97
+                                                                        }
+                                                                        
+                                                                        .watch-video i {
+                                                                            margin-left: 5px;
+                                                                            color: #fff;
+                                                                            font-size: 18px
+                                                                        }
+                                                                        
+                                                                        .how-wrap {
+                                                                            background: #fff;
+                                                                            padding: 28px 29px;
+                                                                            min-height: 210px;
+                                                                            margin-bottom: 30px;
+                                                                            transition: .5s all ease;
+                                                                            background-position: top right;
+                                                                            box-shadow: 2px 2px 45px 0px rgba(0, 0, 0, .1)
+                                                                        }
+                                                                        
+                                                                        .how-title h5 {
+                                                                            margin-left: 10px;
+                                                                            font-size: 22px;
+                                                                            font-weight: 700;
+                                                                            color: #525456;
+                                                                            line-height: 25px;
+                                                                            transition: none
+                                                                        }
+                                                                        
+                                                                        .how-title {
+                                                                            display: flex;
+                                                                            flex-direction: row;
+                                                                            align-items: end;
+                                                                            margin-bottom: 10px
+                                                                        }
+                                                                        
+                                                                        .how-wrap p {
+                                                                            font-size: 14px;
+                                                                            line-height: 22px;
+                                                                            transition: none
+                                                                        }
+                                                                        
+                                                                        .hover {
+                                                                            display: none
+                                                                        }
+                                                                        
+                                                                        .how-wrap:hover .hover {
+                                                                            display: block
+                                                                        }
+                                                                        
+                                                                        .how-wrap:hover .no-hover {
+                                                                            display: none
+                                                                        }
+                                                                        
+                                                                        .how-wrap:hover .how-title h5,
+                                                                        .how-wrap:hover p {
+                                                                            color: #fff
+                                                                        }
+                                                                        
+                                                                        .how-link {
+                                                                            transition: .5s all ease;
+                                                                            display: block
+                                                                        }
+                                                                        
+                                                                        .healthcare {
+                                                                            background-repeat: no-repeat;
+                                                                            max-width: 100%;
+                                                                            background-attachment: fixed;
+                                                                            position: relative;
+                                                                            padding-bottom: 79px
+                                                                        }
+                                                                        
+                                                                        .healthcare .container {
+                                                                            margin-top: 35px
+                                                                        }
+                                                                        
+                                                                        .health-overlay {
+                                                                            position: absolute;
+                                                                            top: 0;
+                                                                            width: 100%;
+                                                                            height: 100%;
+                                                                            background-repeat: no-repeat
+                                                                        }
+                                                                        
+                                                                        .health-overlay:before {
+                                                                            content: "";
+                                                                            background: url(//www.boston-technology.com/wp-content/themes/btc/images/overlay-health.png);
+                                                                            position: absolute;
+                                                                            left: 0;
+                                                                            top: -15px;
+                                                                            width: 100%;
+                                                                            height: 100%
+                                                                        }
+                                                                        
+                                                                        .health-main-content {
+                                                                            min-height: 690px;
+                                                                            display: flex;
+                                                                            flex-direction: column;
+                                                                            justify-content: center;
+                                                                            margin-left: -25px
+                                                                        }
+                                                                        
+                                                                        .title-subtitle h3 {
+                                                                            color: #20ac97;
+                                                                            font-size: 24px;
+                                                                            margin-bottom: 27px
+                                                                        }
+                                                                        
+                                                                        @media screen and (max-width:449px) {
+                                                                            .title-subtitle h2 {
+                                                                                color: #fff;
+                                                                                font-size: 25px;
+                                                                            }
+                                                                        }
+                                                                        
+                                                                        @media screen and (min-width:500px) {
+                                                                            .title-subtitle h2 {
+                                                                                color: #fff;
+                                                                                font-size: 40px;
+                                                                            }
+                                                                        }
+                                                                        
+                                                                        .blue-bg {
+                                                                            background: #234161
+                                                                        }
+                                                                        
+                                                                        ul#tagstab {
+                                                                            border-bottom: none
+                                                                        }
+                                                                        
+                                                                        ul#tagstab a {
+                                                                            color: #b2cae4;
+                                                                            border: none;
+                                                                            border-bottom: 3px solid transparent;
+                                                                            padding: 0;
+                                                                            margin-right: 55px;
+                                                                            padding-bottom: 18px;
+                                                                            font-size: 20px;
+                                                                            font-weight: 600;
+                                                                            cursor: pointer;
+                                                                            line-height: 24px;
+                                                                            padding-top: 30px
+                                                                        }
+                                                                        
+                                                                        ul#tagstab li:hover a {
+                                                                            color: #fff
+                                                                        }
+                                                                        
+                                                                        a#digital-transformation-tab {
+                                                                            width: 140px
+                                                                        }
+                                                                        
+                                                                        #tagstab.nav-tabs>li.active>a,
+                                                                        #tagstab.nav-tabs>li.active>a:focus,
+                                                                        #tagstab.nav>li>a:focus,
+                                                                        #tagstab.nav>li>a:hover,
+                                                                        #tagstab.nav-tabs>li.active>a:hover {
+                                                                            background: 0 0;
+                                                                            border: none;
+                                                                            color: #fff;
+                                                                            border-bottom: 3px solid #20ac97
+                                                                        }
+                                                                        
+                                                                        .tab-pane.active a.xtrabold {
+                                                                            text-transform: uppercase;
+                                                                            font-size: 14px;
+                                                                            color: #20a694
+                                                                        }
+                                                                        
+                                                                        .card-text {
+                                                                            padding: 35px 0;
+                                                                            font-size: 28px;
+                                                                            color: #d5e2f1;
+                                                                            line-height: 35px;
+                                                                            /* padding-right: 200px; */
+                                                                            font-weight: 300
+                                                                        }
+                                                                        
+                                                                        @media screen and (max-width:745px) {
+                                                                            .card-text p,
+                                                                            .card-text li {
+                                                                                font-size: 19px;
+                                                                                color: #d5e2f1;
+                                                                                line-height: 35px;
+                                                                                font-weight: 300
+                                                                            }
+                                                                        }
+                                                                        
+                                                                        @media screen and (min-width:1024px) {
+                                                                            .card-text p,
+                                                                            .card-text li {
+                                                                                font-size: 26px;
+                                                                                color: #d5e2f1;
+                                                                                line-height: 35px;
+                                                                                font-weight: 300
+                                                                            }
+                                                                        }
+                                                                        
+                                                                        .tab-pane.active a.xtrabold:hover {
+                                                                            color: #fff
+                                                                        }
+                                                                        
+                                                                        .inside-tabs-grid {
+                                                                            margin-top: 55px
+                                                                        }
+                                                                        
+                                                                        .inside-tabs-grid .animatebutton,
+                                                                        .what-we-do-case .animatebutton,
+                                                                        .from-the-wrap.homewrap .animatebutton {
+                                                                            opacity: 0;
+                                                                            transition: .5s all ease
+                                                                        }
+                                                                        
+                                                                        a.post-wrp:hover .animatebutton,
+                                                                        .what-we-do-case:hover .animatebutton {
+                                                                            background-position: left bottom;
+                                                                            opacity: 1
+                                                                        }
+                                                                        
+                                                                        .iframe-wrap.modal-content {
+                                                                            background: 0 0;
+                                                                            border: none;
+                                                                            box-shadow: none
+                                                                        }
+                                                                        
+                                                                        .modal-footer {
+                                                                            border: none
+                                                                        }
+                                                                        
+                                                                        .case-items {
+                                                                            margin-right: 45px
+                                                                        }
+                                                                        
+                                                                        .from-in {
+                                                                            background-position: center!IMPORTANT
+                                                                        }
+                                                                        
+                                                                        .title-subtitle {
+                                                                            margin-bottom: 50px
+                                                                        }
+                                                                        
+                                                                        .trusted-logo {
+                                                                            background: #fff;
+                                                                            padding: 45px;
+                                                                            margin: 57px 0 96px;
+                                                                            box-shadow: 2px 2px 45px 0px rgba(0, 0, 0, .1)
+                                                                        }
+                                                                        
+                                                                        .trusted-logo .col-md-4 {
+                                                                            min-height: 110px;
+                                                                            max-height: 110px;
+                                                                            display: flex;
+                                                                            flex-direction: column;
+                                                                            justify-content: center
+                                                                        }
+                                                                        
+                                                                        .trusted-logo .col-md-4:nth-child(-n+6) {
+                                                                            border-bottom: 1px solid #dbf1ed
+                                                                        }
+                                                                        
+                                                                        .trusted-logo .col-md-4:nth-child(1n) {
+                                                                            border-left: 1px solid #dbf1ed
+                                                                        }
+                                                                        
+                                                                        .trusted-logo .col-md-4:nth-child(3n+1) {
+                                                                            border-left: none
+                                                                        }
+                                                                        
+                                                                        .full-width-blog.from-in>div>img {
+                                                                            height: auto
+                                                                        }
+                                                                        
+                                                                        .float-right {
+                                                                            float: right
+                                                                        }
+                                                                        
+                                                                        .blog-out.from-in.full-width-blog,
+                                                                        .full-width-blog.from-in>div {
+                                                                            min-height: auto !Important
+                                                                        }
+                                                                        
+                                                                        .blog-out.from-in.full-width-blog {
+                                                                            min-height: 370px
+                                                                        }
+                                                                        
+                                                                        .owl-dots .owl-dot {
+                                                                            outline: none
+                                                                        }
+                                                                        
+                                                                        .owl-dots .owl-dot span:before {
+                                                                            content: url(//www.boston-technology.com/wp-content/themes/btc/images/dots.png);
+                                                                            margin-right: 10px
+                                                                        }
+                                                                        
+                                                                        .owl-dots .owl-dot.active span:before,
+                                                                        .owl-dots .owl-dot span:hover:before {
+                                                                            content: url(//www.boston-technology.com/wp-content/themes/btc/images/active-dots.png)
+                                                                        }
+                                                                        
+                                                                        .owl-dots {
+                                                                            margin-top: 55px
+                                                                        }
+                                                                        
+                                                                        .single-case_study .owl-dots,
+                                                                        .owl-carousel.awards .owl-dots {
+                                                                            display: none
+                                                                        }
+                                                                        
+                                                                        .owl-carousel.awards .owl-nav {
+                                                                            display: block;
+                                                                            position: absolute;
+                                                                            right: 0
+                                                                        }
+                                                                        
+                                                                        .award-slider {
+                                                                            background: #f0f4f5;
+                                                                            padding: 60px 30px 60px 60px;
+                                                                            margin-bottom: 20px
+                                                                        }
+                                                                        
+                                                                        .owl-carousel.awards .owl-item img {
+                                                                            width: auto
+                                                                        }
+                                                                        
+                                                                        .owl-carousel.awards .owl-nav button span {
+                                                                            font-size: 20px
+                                                                        }
+                                                                        
+                                                                        .owl-carousel.awards .owl-nav button span {
+                                                                            font-size: 41px;
+                                                                            margin-left: 10px;
+                                                                            font-weight: 300;
+                                                                            color: #aaacad
+                                                                        }
+                                                                        
+                                                                        .owl-carousel.awards .owl-nav button span:hover {
+                                                                            color: #20ac97
+                                                                        }
+                                                                        
+                                                                        button {
+                                                                            outline: none
+                                                                        }
+                                                                        
+                                                                        .rank-meta {
+                                                                            margin-top: 35px
+                                                                        }
+                                                                        
+                                                                        .rank-meta li {
+                                                                            list-style: none;
+                                                                            display: inline-block;
+                                                                            margin-right: 40px
+                                                                        }
+                                                                        
+                                                                        .rank-meta h4 {
+                                                                            color: #20ac97;
+                                                                            font-size: 24px;
+                                                                            margin-bottom: 5px
+                                                                        }
+                                                                        
+                                                                        p.span-meta {
+                                                                            font-size: 18px;
+                                                                            font-weight: 600;
+                                                                            color: #212529
+                                                                        }
+                                                                        
+                                                                        .blog-out.from-in.full-width-blog h3 {
+                                                                            margin-bottom: 0
+                                                                        }
+                                                                        
+                                                                        .recent-updates img {
+                                                                            height: 455px;
+                                                                            object-fit: cover;
+                                                                            width: 100%
+                                                                        }
+                                                                        
+                                                                        .updates-content-wrap,
+                                                                        .updates-content-wrap p {
+                                                                            color: #fff;
+                                                                            font-size: 22px;
+                                                                            line-height: 30px;
+                                                                            font-weight: 300
+                                                                        }
+                                                                        
+                                                                        .updates-content-wrap h2 {
+                                                                            color: #fff;
+                                                                            margin-top: 14px;
+                                                                            font-size: 40px;
+                                                                            margin-bottom: 26px
+                                                                        }
+                                                                        
+                                                                        .updates .owl-dots .owl-dot span:before,
+                                                                        .updates .owl-dots .owl-dot span:after {
+                                                                            content: ""
+                                                                        }
+                                                                        
+                                                                        .updates .owl-dots .owl-dot span {
+                                                                            color: #f199a5;
+                                                                            font-size: 20px;
+                                                                            font-weight: 900;
+                                                                            margin: 10px
+                                                                        }
+                                                                        
+                                                                        .updates .owl-dots .owl-dot.active span,
+                                                                        .updates .owl-dots .owl-dot span:hover {
+                                                                            color: #fff
+                                                                        }
+                                                                        
+                                                                        .updates .owl-dots {
+                                                                            margin-top: 0;
+                                                                            position: absolute;
+                                                                            bottom: 40px;
+                                                                            left: 30px
+                                                                        }
+                                                                        
+                                                                        .update-row {
+                                                                            display: table;
+                                                                            margin-left: -49px;
+                                                                            margin-right: 0
+                                                                        }
+                                                                        
+                                                                        .update-row .col-md-6 {
+                                                                            float: none;
+                                                                            display: table-cell;
+                                                                            vertical-align: top
+                                                                        }
+                                                                        
+                                                                        .updates-content-wrap {
+                                                                            min-height: 280px
+                                                                        }
+                                                                        
+                                                                        .update-row .col-md-6.wrp-frst {
+                                                                            padding: 40px;
+                                                                            width: 600px;
+                                                                            z-index: 99999;
+                                                                            position: relative;
+                                                                            top: 50px;
+                                                                            right: -50px;
+                                                                            width: 627px
+                                                                        }
+                                                                        
+                                                                        .update-highlight {
+                                                                            box-shadow: 2px 2px 13px 0px rgba(0, 0, 0, .2);
+                                                                            display: inline-block;
+                                                                            background: #fff;
+                                                                            padding: 10px 20px;
+                                                                            position: absolute;
+                                                                            left: 40px;
+                                                                            font-size: 18px;
+                                                                            text-transform: uppercase;
+                                                                            top: 125px;
+                                                                            z-index: 99
+                                                                        }
+                                                                        
+                                                                        .award-recognition .update-highlight {
+                                                                            top: 25px
+                                                                        }
+                                                                        
+                                                                        .recent-updates {
+                                                                            position: relative;
+                                                                            padding-top: 95px
+                                                                        }
+                                                                        
+                                                                        .featured-video {
+                                                                            padding-bottom: 100px
+                                                                        }
+                                                                        
+                                                                        .featured-img-wrp {
+                                                                            min-height: 455px;
+                                                                            display: flex;
+                                                                            flex-direction: column;
+                                                                            justify-content: center;
+                                                                            align-items: center;
+                                                                            color: #fff
+                                                                        }
+                                                                        
+                                                                        .featured-video h2 {
+                                                                            font-size: 38px;
+                                                                            color: #fff;
+                                                                            margin: 33px 0 80px;
+                                                                            line-height: 43px
+                                                                        }
+                                                                        
+                                                                        img.play-video:hover {
+                                                                            opacity: .7;
+                                                                            cursor: pointer
+                                                                        }
+                                                                        
+                                                                        .featured-vide-content {
+                                                                            background: #20ac97;
+                                                                            padding: 60px;
+                                                                            display: block;
+                                                                            text-align: left;
+                                                                            color: #fff;
+                                                                            min-height: 455px
+                                                                        }
+                                                                        
+                                                                        .featured-vide-content a {
+                                                                            text-transform: uppercase;
+                                                                            color: #fff;
+                                                                            font-size: 14px;
+                                                                            font-weight: 900;
+                                                                            letter-spacing: .7px
+                                                                        }
+                                                                        
+                                                                        .featured-vide-content a:hover {
+                                                                            opacity: .7
+                                                                        }
+                                                                        
+                                                                        h1,
+                                                                        h1 p {
+                                                                            font-weight: 900
+                                                                        }
+                                                                        
+                                                                        .who-we-are h1 p {
+                                                                            font-size: 40px;
+                                                                            line-height: 50px;
+                                                                            color: #212529
+                                                                        }
+                                                                        
+                                                                        .who-we-are .entry {
+                                                                            padding-left: 80px
+                                                                        }
+                                                                        
+                                                                        .who-we-are .entry p {
+                                                                            font-size: 18px;
+                                                                            line-height: 31px
+                                                                        }
+                                                                        
+                                                                        .who-we-are .entry h3 {
+                                                                            font-size: 28px;
+                                                                            line-height: 36px;
+                                                                            font-weight: 600;
+                                                                            color: #525456;
+                                                                            margin-top: 25px
+                                                                        }
+                                                                        
+                                                                        .why-we-serve {
+                                                                            display: flex;
+                                                                            flex-direction: row;
+                                                                            justify-content: center;
+                                                                            align-items: center;
+                                                                            min-height: 515px;
+                                                                            color: #fff;
+                                                                            background-size: cover !Important
+                                                                        }
+                                                                        
+                                                                        .why-we-serve p {
+                                                                            color: #fff;
+                                                                            font-size: 26px;
+                                                                            font-weight: 400;
+                                                                            line-height: 35px
+                                                                        }
+                                                                        
+                                                                        .why-we-serve .title-subtitle {
+                                                                            width: 70%;
+                                                                            margin-bottom: 0
+                                                                        }
+                                                                        
+                                                                        .timeline-journey .title-subtitle {
+                                                                            margin-bottom: 0
+                                                                        }
+                                                                        
+                                                                        h2.sec-title {
+                                                                            font-size: 60px
+                                                                        }
+                                                                        
+                                                                        ul#timeline-tab {
+                                                                            background-repeat-x: repeat;
+                                                                            background-position: left top;
+                                                                            padding-top: 31px;
+                                                                            border-bottom: none;
+                                                                            margin: 45px 0 30px;
+                                                                            background-repeat-y: no-repeat;
+                                                                            display: inline-block;
+                                                                            position: relative
+                                                                        }
+                                                                        
+                                                                        ul#timeline-tab:before {
+                                                                            content: url(//www.boston-technology.com/wp-content/themes/btc/images/left-timeline.png);
+                                                                            position: absolute;
+                                                                            left: 0
+                                                                        }
+                                                                        
+                                                                        ul#timeline-tab:after {
+                                                                            content: url(//www.boston-technology.com/wp-content/themes/btc/images/right-timeline.png);
+                                                                            position: absolute;
+                                                                            right: 0;
+                                                                            background: #fff
+                                                                        }
+                                                                        
+                                                                        ul#timeline-tab li:before {
+                                                                            content: url(//www.boston-technology.com/wp-content/themes/btc/images/timeline-background.png);
+                                                                            position: relative;
+                                                                            top: 0;
+                                                                            left: 47px
+                                                                        }
+                                                                        
+                                                                        ul#timeline-tab li:last-child:before {
+                                                                            top: 30px;
+                                                                            left: 0
+                                                                        }
+                                                                        
+                                                                        ul#timeline-tab li a {
+                                                                            border: none;
+                                                                            border-radius: unset;
+                                                                            border-left: 1px solid #20ac97;
+                                                                            margin-right: 0;
+                                                                            width: 88px;
+                                                                            border-bottom: 1px solid #20ac97;
+                                                                            background: #edf2f3;
+                                                                            color: #a4afb1;
+                                                                            text-align: center;
+                                                                            padding: 24px 0;
+                                                                            transition: none
+                                                                        }
+                                                                        
+                                                                        ul#timeline-tab li:last-child a {
+                                                                            border-right: 1px solid #20ac97
+                                                                        }
+                                                                        
+                                                                        ul#timeline-tab li.active a,
+                                                                        ul#timeline-tab li.active a:hover {
+                                                                            background: url(//www.boston-technology.com/wp-content/themes/btc/images/timeline-active.png);
+                                                                            background-repeat: no-repeat;
+                                                                            color: #fff;
+                                                                            font-weight: 900;
+                                                                            padding-bottom: 37px;
+                                                                            border-bottom: none;
+                                                                            border-left: none;
+                                                                            background-size: cover;
+                                                                            border-right: none
+                                                                        }
+                                                                        
+                                                                        ul#timeline-tab li a:hover,
+                                                                        ul#timeline-tab li:hover a {
+                                                                            background: #c4dce5;
+                                                                            color: #212529
+                                                                        }
+                                                                        
+                                                                        .leader-wrap {
+                                                                            margin-top: 48px
+                                                                        }
+                                                                        
+                                                                        .leader-item {
+                                                                            cursor: pointer
+                                                                        }
+                                                                        
+                                                                        .leader-item img {
+                                                                            height: 174px;
+                                                                            object-fit: cover;
+                                                                            width: 175px;
+                                                                            transition: .5s all ease
+                                                                        }
+                                                                        
+                                                                        .leader-wrap .col-md-2 {
+                                                                            margin-left: 2.19%;
+                                                                            width: 205px
+                                                                        }
+                                                                        
+                                                                        .leader-wrap .col-md-2:first-child,
+                                                                        .leader-wrap .col-md-2:nth-child(5n+1) {
+                                                                            margin-left: 0
+                                                                        }
+                                                                        
+                                                                        .sociallink {
+                                                                            position: relative
+                                                                        }
+                                                                        
+                                                                        .sociallink a {
+                                                                            position: absolute;
+                                                                            top: -20px;
+                                                                            right: -4px
+                                                                        }
+                                                                        
+                                                                        .sociallink img {
+                                                                            width: auto;
+                                                                            height: auto;
+                                                                            box-shadow: 2px 2px 20px 0px rgba(0, 0, 0, .3)
+                                                                        }
+                                                                        
+                                                                        .meta-leader {
+                                                                            margin-top: 15px
+                                                                        }
+                                                                        
+                                                                        .meta-leader h4 {
+                                                                            font-size: 15px;
+                                                                            color: #212529;
+                                                                            font-weight: 700
+                                                                        }
+                                                                        
+                                                                        .meta-leader p {
+                                                                            font-size: 14px;
+                                                                            color: #808387;
+                                                                            font-weight: 600
+                                                                        }
+                                                                        
+                                                                        .recent-updates.who {
+                                                                            padding-top: 80px
+                                                                        }
+                                                                        
+                                                                        .leader-popup {
+                                                                            position: fixed;
+                                                                            width: 100%;
+                                                                            background: rgba(0, 0, 0, .6);
+                                                                            top: 0;
+                                                                            z-index: 999999;
+                                                                            right: -3000px;
+                                                                            height: 100%
+                                                                        }
+                                                                        
+                                                                        .leader-popup-item {
+                                                                            position: fixed;
+                                                                            top: 0;
+                                                                            right: -3000px;
+                                                                            transition-duration: .5s
+                                                                        }
+                                                                        
+                                                                        .leader-popup .leader-popup-item {
+                                                                            width: 60%;
+                                                                            background: #fff;
+                                                                            float: right;
+                                                                            padding: 60px;
+                                                                            height: 100vh;
+                                                                            overflow: auto
+                                                                        }
+                                                                        
+                                                                        img.popup-close {
+                                                                            position: absolute;
+                                                                            right: 60px;
+                                                                            cursor: pointer
+                                                                        }
+                                                                        
+                                                                        img.popup-close:hover {
+                                                                            opacity: .6
+                                                                        }
+                                                                        
+                                                                        .profile-pic-popup img.dp {
+                                                                            height: 175px;
+                                                                            width: 175px;
+                                                                            object-fit: cover
+                                                                        }
+                                                                        
+                                                                        .leader-popup-item .meta-leader h4 {
+                                                                            font-size: 40px;
+                                                                            color: #212529;
+                                                                            font-weight: 900;
+                                                                            margin-bottom: 10px
+                                                                        }
+                                                                        
+                                                                        .leader-popup-item .meta-leader p {
+                                                                            font-size: 24px;
+                                                                            color: #20ac97;
+                                                                            font-weight: 600;
+                                                                            margin-bottom: 28px
+                                                                        }
+                                                                        
+                                                                        .leader-bio,
+                                                                        .leader-bio p {
+                                                                            font-size: 20px;
+                                                                            color: #525456;
+                                                                            font-weight: 400;
+                                                                            line-height: 29px
+                                                                        }
+                                                                        
+                                                                        .leader-bio p a,
+                                                                        .leader-bio a {
+                                                                            color: #20ac97
+                                                                        }
+                                                                        
+                                                                        .sociallink-pop {
+                                                                            position: relative
+                                                                        }
+                                                                        
+                                                                        .sociallink-pop a {
+                                                                            position: absolute;
+                                                                            top: -20px;
+                                                                            left: 155px
+                                                                        }
+                                                                        
+                                                                        .blogs-listing img {
+                                                                            width: 100%;
+                                                                            height: auto
+                                                                        }
+                                                                        
+                                                                        .blogs-listing h3.title {
+                                                                            color: #525456;
+                                                                            font-size: 22px;
+                                                                            font-weight: 900;
+                                                                            min-height: 90px;
+                                                                            margin-bottom: 20px;
+                                                                            line-height: 29px
+                                                                        }
+                                                                        
+                                                                        p.meta {
+                                                                            font-size: 16px;
+                                                                            color: #95979a;
+                                                                            margin-top: 15px
+                                                                        }
+                                                                        
+                                                                        .blog-list-featured img {
+                                                                            object-fit: cover;
+                                                                            transition: .5s all ease
+                                                                        }
+                                                                        
+                                                                        .grid-blog-list {
+                                                                            margin-top: 25px;
+                                                                            min-height: 460px
+                                                                        }
+                                                                        
+                                                                        .blog-list-contents a {
+                                                                            font-size: 14px;
+                                                                            color: #20ac97;
+                                                                            text-transform: uppercase;
+                                                                            border-bottom: 1px solid transparent
+                                                                        }
+                                                                        
+                                                                        .blog-list-contents a:hover {
+                                                                            color: #e2657a;
+                                                                            border-color: #20ac97
+                                                                        }
+                                                                        
+                                                                        .row.blogs-listing {
+                                                                            margin-top: 90px
+                                                                        }
+                                                                        
+                                                                        .full-blog-list .blog-list-contents {
+                                                                            background: #fff;
+                                                                            padding: 45px 50px;
+                                                                            box-shadow: 0 7px 13px -1px rgba(0, 0, 0, .2);
+                                                                            width: 48%;
+                                                                            position: relative;
+                                                                            max-height: 475px;
+                                                                            margin-left: 100px;
+                                                                            top: 100px
+                                                                        }
+                                                                        
+                                                                        .full-blog-list .blog-list-featured img {
+                                                                            height: 480px
+                                                                        }
+                                                                        
+                                                                        .full-blog-list .blog-list-featured {
+                                                                            background-repeat: no-repeat !Important
+                                                                        }
+                                                                        
+                                                                        .full-blog-list {
+                                                                            margin-bottom: 175px;
+                                                                            background-size: cover !important
+                                                                        }
+                                                                        
+                                                                        .blog-list-contents h2.title {
+                                                                            font-size: 28px;
+                                                                            font-weight: 900;
+                                                                            line-height: 37px;
+                                                                            margin-bottom: 35px
+                                                                        }
+                                                                        
+                                                                        .blog-list-contents .entry p {
+                                                                            color: #525456;
+                                                                            font-size: 20px;
+                                                                            line-height: 30px
+                                                                        }
+                                                                        
+                                                                        .blog-list-contents .entry {
+                                                                            margin-bottom: 40px
+                                                                        }
+                                                                        
+                                                                        .full-blog-list p.meta {
+                                                                            margin-top: 0
+                                                                        }
+                                                                        
+                                                                        .single-post.postentryy h2 {
+                                                                            width: 70%;
+                                                                            font-size: 36px;
+                                                                            line-height: 42px;
+                                                                            margin-bottom: 35px;
+                                                                            margin-top: 15px;
+                                                                            font-weight: 900
+                                                                        }
+                                                                        
+                                                                        .row.single-post-content,
+                                                                        .row.single-post-content p {
+                                                                            font-size: 20px;
+                                                                            line-height: 30px;
+                                                                            margin-bottom: 35px
+                                                                        }
+                                                                        
+                                                                        .single-navigation {
+                                                                            background: #f0f4f5;
+                                                                            padding: 50px 0 60px;
+                                                                            font-size: 0
+                                                                        }
+                                                                        
+                                                                        .single-navigation a {
+                                                                            font-size: 22px;
+                                                                            line-height: 31px;
+                                                                            font-weight: 600
+                                                                        }
+                                                                        
+                                                                        .from-in:hover>.animatebutton {
+                                                                            background-position: left bottom;
+                                                                            opacity: 1
+                                                                        }
+                                                                        
+                                                                        .content-dts-ntry {
+                                                                            position: absolute;
+                                                                            width: 75%;
+                                                                            z-index: 9
+                                                                        }
+                                                                        
+                                                                        .how-overlay {
+                                                                            width: 100%;
+                                                                            height: 100%;
+                                                                            position: absolute;
+                                                                            background: url(//www.boston-technology.com/wp-content/themes/btc/images/backgorund-linear.png);
+                                                                            top: 0;
+                                                                            left: 0;
+                                                                            opacity: 0;
+                                                                            transition: .8s all ease;
+                                                                            background-size: cover !Important
+                                                                        }
+                                                                        
+                                                                        .how-wrap:hover>.how-overlay {
+                                                                            width: 100%;
+                                                                            height: 100%;
+                                                                            position: absolute;
+                                                                            background: url(//www.boston-technology.com/wp-content/themes/btc/images/backgorund-linear.png);
+                                                                            top: 0;
+                                                                            left: 0;
+                                                                            opacity: 1;
+                                                                            transition: .5s all ease;
+                                                                            background-repeat: no-repeat
+                                                                        }
+                                                                        
+                                                                        .how-full-content {
+                                                                            position: absolute;
+                                                                            width: 80%;
+                                                                            z-index: 9
+                                                                        }
+                                                                        
+                                                                        a.play-video {
+                                                                            border: 2px solid #20ac97;
+                                                                            padding: 42px 48px;
+                                                                            background: linear-gradient(to bottom, transparent 50%, #20ac97 50%);
+                                                                            background-position: top left;
+                                                                            background-size: 100% 202%;
+                                                                            cursor: pointer
+                                                                        }
+                                                                        
+                                                                        a.play-video:hover,
+                                                                        .featured-img-wrp:hover a.play-video {
+                                                                            background-position: bottom left
+                                                                        }
+                                                                        
+                                                                        .bulblnk.float-right {
+                                                                            position: inherit;
+                                                                            top: 0
+                                                                        }
+                                                                        
+                                                                        .from-in:hover,
+                                                                        .blog-list-featured img:hover {
+                                                                            transform: scale(1.1)
+                                                                        }
+                                                                        
+                                                                        .blog-out.from-in,
+                                                                        .ebooks-out.from-in,
+                                                                        .infographics-out.from-in {
+                                                                            transform: none;
+                                                                            cursor: pointer
+                                                                        }
+                                                                        
+                                                                        .zoomn {
+                                                                            overflow: hidden
+                                                                        }
+                                                                        
+                                                                        .owl-stage-outer h2.xtrabold {
+                                                                            font-size: 34px;
+                                                                            line-height: 42px
+                                                                        }
+                                                                        
+                                                                        .tax-description .owl-dots {
+                                                                            display: none
+                                                                        }
+                                                                        
+                                                                        .tax-wrap {
+                                                                            padding: 180px 0 100px
+                                                                        }
+                                                                        
+                                                                        .tax-description h2 {
+                                                                            font-size: 40px;
+                                                                            font-weight: 900;
+                                                                            color: #234161;
+                                                                            margin-bottom: 50px
+                                                                        }
+                                                                        
+                                                                        .whatwedo .owl-item:last-child {
+                                                                            margin-right: 0 !Important
+                                                                        }
+                                                                        
+                                                                        .tax-description li {
+                                                                            list-style: none
+                                                                        }
+                                                                        
+                                                                        .tax-description li a h3 {
+                                                                            color: #8c9fb4;
+                                                                            font-size: 20px;
+                                                                            border-bottom: 3px solid transparent;
+                                                                            padding-bottom: 17px;
+                                                                            font-weight: 600
+                                                                        }
+                                                                        
+                                                                        .tax-description li.active h3 {
+                                                                            color: #20ac97;
+                                                                            border-bottom-color: #20ac97;
+                                                                            font-weight: 700
+                                                                        }
+                                                                        
+                                                                        .tax-description li:hover h3 {
+                                                                            color: #20ac97
+                                                                        }
+                                                                        
+                                                                        .tax-description button.owl-prev {
+                                                                            left: -25px;
+                                                                            position: absolute;
+                                                                            top: 0
+                                                                        }
+                                                                        
+                                                                        .tax-description button.owl-next {
+                                                                            right: -25px;
+                                                                            position: absolute;
+                                                                            top: 0
+                                                                        }
+                                                                        
+                                                                        .tax-description .owl-nav span {
+                                                                            font-size: 30px;
+                                                                            color: #8c9fb4;
+                                                                            font-weight: 300
+                                                                        }
+                                                                        
+                                                                        .tax-description .owl-nav span:hover {
+                                                                            color: #20ac97
+                                                                        }
+                                                                        
+                                                                        .what-we-do-wrap {
+                                                                            background: #234161;
+                                                                            padding-top: 95px;
+                                                                            padding-bottom: 83px;
+                                                                            color: #fff;
+                                                                            margin-bottom: 100px
+                                                                        }
+                                                                        
+                                                                        .tax-up p {
+                                                                            font-size: 20px;
+                                                                            color: #d5e2f1;
+                                                                            line-height: 32px
+                                                                        }
+                                                                        
+                                                                        .tax-up {
+                                                                            padding-right: 215px
+                                                                        }
+                                                                        
+                                                                        ul.tick-list li {
+                                                                            list-style: none;
+                                                                            margin-top: 10px;
+                                                                            display: flex;
+                                                                            align-items: baseline
+                                                                        }
+                                                                        
+                                                                        ul.tick-list li:before {
+                                                                            content: url(//www.boston-technology.com/wp-content/themes/btc/images/list-ico.png);
+                                                                            margin-right: 15px
+                                                                        }
+                                                                        
+                                                                        .tax-up ul.tick-list li {
+                                                                            color: #d5e2f1
+                                                                        }
+                                                                        
+                                                                        ul.tick-list li {
+                                                                            font-size: 16px;
+                                                                            line-height: 22px;
+                                                                            margin-bottom: 16px
+                                                                        }
+                                                                        
+                                                                        ul#tagstab.nav-tabs>li:last-child a {
+                                                                            margin-right: 0
+                                                                        }
+                                                                        
+                                                                        .zoomn .from-in {
+                                                                            position: relative;
+                                                                            overflow: hidden;
+                                                                            transform: initial;
+                                                                            background: 0 0
+                                                                        }
+                                                                        
+                                                                        .zoomn .from-in:before {
+                                                                            content: "";
+                                                                            position: absolute;
+                                                                            width: 200%;
+                                                                            .container-fluid.light.up-head.ztop#header {
+                                                                                background: 0 0
+                                                                            }
+                                                                            .single-post.postentryy img {
+                                                                                height: auto;
+                                                                                margin: 40px 0 50px;
+                                                                                max-width: 100%;
+                                                                                max-height: 100%
+                                                                            }
+                                                                            p.meta.ftr {
+                                                                                margin-bottom: 10px;
+                                                                                font-size: 15px
+                                                                            }
+                                                                            .awakeZ img.fordesk {
+                                                                                display: none
+                                                                            }
+                                                                            .awakeZ img.formobile {
+                                                                                display: block
+                                                                            }
+                                                                            .awakeZ .access a {
+                                                                                color: #6e757c
+                                                                            }
+                                                                            .awakeZ .bar {
+                                                                                background: #6e757c
+                                                                            }
+                                                                            .page-template-page-whatwedo img.case-logo {
+                                                                                height: auto
+                                                                            }
+                                                                            @media screen and (-ms-high-contrast:active),
+                                                                            (-ms-high-contrast:none) {
+                                                                                .health-main-content {
+                                                                                    margin-top: 200px
+                                                                                }
+                                                                                .featured-img-wrp {
+                                                                                    text-align: center
+                                                                                }
+                                                                                a.play-video {
+                                                                                    margin-top: calc(50% - 90px);
+                                                                                    display: inline-block
+                                                                                }
+                                                                                .why-we-serve {
+                                                                                    display: table
+                                                                                }
+                                                                                .why-we-serve .title-subtitle {
+                                                                                    display: table-cell;
+                                                                                    vertical-align: middle;
+                                                                                    padding: 0 155px
+                                                                                }
+                                                                                .trusted-logo .col-md-4 {
+                                                                                    display: table;
+                                                                                    text-align: center
+                                                                                }
+                                                                                .trust-item {
+                                                                                    display: table-cell;
+                                                                                    vertical-align: middle;
+                                                                                    text-align: center
+                                                                                }
+                                                                                img.case-image {
+                                                                                    height: auto
+                                                                                }
+                                                                                img.case-logo {
+                                                                                    bottom: 40px
+                                                                                }
+                                                                            }
+                                                                            @media only screen and (max-width:985px) and (min-width:768px) {
+                                                                                .home-banner {
+                                                                                    background-position: center !Important
+                                                                                }
+                                                                            }
+                                                                            @media only screen and (max-width:1024px) and (min-width:986px) {
+                                                                                .home-banner {
+                                                                                    background-position: center !Important
+                                                                                }
+                                                                            }
